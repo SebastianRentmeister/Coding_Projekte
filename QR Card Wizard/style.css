@@ -1,0 +1,46 @@
+.card{
+    max-width: 500px;
+    margin:100px auto;
+    padding:20px;
+    background-color:#17271d;
+}
+
+body{
+    
+}
+
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(224, 234, 210);
+    padding: 20px;
+    display:flex;
+    justify-content:space-between;
+}
+.QR{
+    width:150.8px;
+    background-image: url("URL QR Code.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right center;
+    border-radius:8px;
+}
+section{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(224, 234, 210);
+    font-size: 20px;
+    margin:0px 0px 40px 0px;
+}
+
+footer{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.button{
+    background:rgb(224, 234, 210) ;
+    border-style:outset;
+    padding:15px 
+}
+
+
